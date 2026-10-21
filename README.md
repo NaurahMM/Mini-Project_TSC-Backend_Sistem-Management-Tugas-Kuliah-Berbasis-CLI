@@ -1,0 +1,2 @@
+# Mini-Project_TSC-Backend_Sistem-Management-Tugas-Kuliah-Berbasis-CLI
+Sistem Manajemen Tugas Kuliah adalah aplikasi CLI berbasis JavaScript dan Node.js untuk mengelola tugas mahasiswa. Fitur utamanya meliputi CRUD, filter, pengurutan deadline, ringkasan tugas, validasi input, dan penyimpanan JSON. Proyek ini menerapkan berbagai konsep dasar JavaScript seperti arrow function, spread operator, destructuring, dll.
