@@ -24,7 +24,7 @@ Prasyarat: [Node.js](https://nodejs.org/) versi 18 atau lebih baru terpasang di 
 
    ```bash
    git clone https://github.com/NaurahMM/Mini-Project_TSC-Backend_Sistem-Management-Tugas-Kuliah-Berbasis-CLI.git
-   cd <nama-folder-repository>
+   cd Mini-Project_TSC-Backend_Sistem-Management-Tugas-Kuliah-Berbasis-CLI
    ```
 
 2. Jalankan program di terminal:
